@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.82fc80a4.css",
+    "main.js": "/my-portfolio/static/js/main.71fe4544.js",
+    "static/media/jetbot.png": "/my-portfolio/static/media/jetbot.e4902b082181bd8207cf.png",
+    "static/media/pizaa.jpeg": "/my-portfolio/static/media/pizaa.908c93c8a1dff7243fb8.jpeg",
+    "static/media/TranVietLong_Resume.pdf": "/my-portfolio/static/media/TranVietLong_Resume.9d4223ea5225966be45d.pdf",
+    "static/media/mockup.jpg": "/my-portfolio/static/media/mockup.962fdf7cc5ea1406380b.jpg",
+    "static/media/textRecognition.png": "/my-portfolio/static/media/textRecognition.fd495f2df0dd2ed19ccd.png",
+    "static/media/home-main.svg": "/my-portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/url.jpg": "/my-portfolio/static/media/url.0708cbd5cf568f77d9f7.jpg",
+    "static/media/hospital.avif": "/my-portfolio/static/media/hospital.5f5b1c050705782f5eae.avif",
+    "static/media/restcountries.jpg": "/my-portfolio/static/media/restcountries.bb92d8fafe0ed48d3167.jpg",
+    "index.html": "/my-portfolio/index.html",
+    "main.82fc80a4.css.map": "/my-portfolio/static/css/main.82fc80a4.css.map",
+    "main.71fe4544.js.map": "/my-portfolio/static/js/main.71fe4544.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82fc80a4.css",
+    "static/js/main.71fe4544.js"
+  ]
+}
